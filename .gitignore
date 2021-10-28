@@ -28,3 +28,6 @@ fp-info-cache
 # Exported RML and SVG files
 *.rml
 *.svg
+
+# Mac junk
+.DS_Store
